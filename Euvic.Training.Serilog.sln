@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euvic.Training.Serilog", "Euvic.Training.Serilog.csproj", "{5FD1DF64-BF7F-4091-9AEA-C84D31F4A5BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FD1DF64-BF7F-4091-9AEA-C84D31F4A5BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FD1DF64-BF7F-4091-9AEA-C84D31F4A5BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FD1DF64-BF7F-4091-9AEA-C84D31F4A5BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FD1DF64-BF7F-4091-9AEA-C84D31F4A5BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02A98CE2-CCCE-4924-939F-5E72A87D1A39}
+	EndGlobalSection
+EndGlobal
